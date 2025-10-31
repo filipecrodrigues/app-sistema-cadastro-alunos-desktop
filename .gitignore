@@ -39,3 +39,6 @@ build/
 ### Mac OS ###
 .DS_Store
 
+# Ignorar banco de dados local
+*.db
+equipamentos_ti.db
